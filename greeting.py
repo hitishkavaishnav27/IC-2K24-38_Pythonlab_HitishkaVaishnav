@@ -1,3 +1,4 @@
+# This program takes the user's name, age, and city and prints a greeting.
 name = input("Enter your name: ")
 age = int(input("Enter your age: "))
 city = input("Enter your city: ")
