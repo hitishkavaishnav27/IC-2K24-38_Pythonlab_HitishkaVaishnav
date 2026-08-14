@@ -117,11 +117,11 @@ The \t escape sequence is used to create spacing between the item name and price
 
 Sample Input / Output:
 
-```text
+
 | Item | Price |
 | --- | --- |
 | Pen | 10 rupees|
 | Notebook | 50 rupees |
 | Pencil | 5 rupees |
 | **Total** | **65 rupees** |
-```
+
