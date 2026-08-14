@@ -1,4 +1,4 @@
-# This program declares variables and prints their values and data types.
+# This program takes two numbers and performs basic arithmetic operations.
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 
