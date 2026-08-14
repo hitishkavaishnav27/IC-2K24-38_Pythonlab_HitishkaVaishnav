@@ -18,9 +18,9 @@
 6. Hi    There
    Bye — Right
 
-### Section C and D – Programs with aim, logic, and sample input/output
+## Section C and D – Programs with aim, logic, and sample input/output
 
-## 1. Variable and Identifier Practice
+### 1. Variable and Identifier Practice
    
 Aim:
 To declare variables and display their values and data types.
@@ -29,6 +29,7 @@ Logic:
 Different variables are created for name, age, height, and student status. The type() function is used to display their data types.
 
 Sample Input / Output:
+
 Name: Hitishka Type: <class 'str'>
 Age: 19 Type: <class 'int'>
 Height: 5.6 Type: <class 'float'>
