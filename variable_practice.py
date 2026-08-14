@@ -1,3 +1,4 @@
+# This program declares variables and prints their values and data types.
 name = "Hitishka"
 age = 19
 height = 5.6
