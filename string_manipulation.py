@@ -1,3 +1,4 @@
+# This program performs different operations on a full name.
 full_name = input("Enter your full name: ")
 
 print("Uppercase:", full_name.upper())
