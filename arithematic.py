@@ -1,3 +1,4 @@
+# This program declares variables and prints their values and data types.
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 
